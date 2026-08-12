@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Akash4Evolve/DSA/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akash4Evolve/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Akash4Evolve/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0560-subarray-sum-equals-k](https://github.com/Akash4Evolve/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Akash4Evolve/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akash4Evolve/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Akash4Evolve/DSA/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Akash4Evolve/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0560-subarray-sum-equals-k](https://github.com/Akash4Evolve/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Akash4Evolve/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Akash4Evolve/DSA/tree/master/0054-spiral-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Akash4Evolve/DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
