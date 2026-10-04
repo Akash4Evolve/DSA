@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akash4Evolve/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Akash4Evolve/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Akash4Evolve/DSA/tree/master/1539-kth-missing-positive-number) |
+| [1929-concatenation-of-array](https://github.com/Akash4Evolve/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akash4Evolve/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Akash4Evolve/DSA/tree/master/0054-spiral-matrix) |
+| [1929-concatenation-of-array](https://github.com/Akash4Evolve/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akash4Evolve/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
