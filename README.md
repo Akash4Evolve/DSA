@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Akash4Evolve/DSA/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Akash4Evolve/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akash4Evolve/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akash4Evolve/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/Akash4Evolve/DSA/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Akash4Evolve/DSA/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/Akash4Evolve/DSA/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akash4Evolve/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -165,9 +167,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Akash4Evolve/DSA/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Akash4Evolve/DSA/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Akash4Evolve/DSA/tree/master/0078-subsets) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Akash4Evolve/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
